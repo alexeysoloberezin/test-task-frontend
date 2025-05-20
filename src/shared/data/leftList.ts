@@ -1,4 +1,6 @@
-const leftList = [
+import type { List } from "@shared/types/listItem";
+
+const leftList: List = [
   {
     id: 1,
     name: "Shoes 1",
